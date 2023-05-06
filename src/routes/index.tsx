@@ -6,7 +6,6 @@ export default function Home() {
     <main>
       <Title>Hello World</Title>
       <h1>Project Test 1</h1>
-      <!--Counter /-->
       <p>
         Visit{" "}
         <a href="https://start.solidjs.com" target="_blank">
